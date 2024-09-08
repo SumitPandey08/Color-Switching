@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.699);
+    color: white;
+    align-items: center;
+}
+.colorChange {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    justify-content: space-between;
+}
+.btn{
+    padding: 20px;
+    align-items: center;
+    box-shadow: 3px 3px 3px black;
+    text-shadow: 1px 1px 2px black;
+
+}
+
